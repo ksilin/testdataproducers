@@ -1,0 +1,9 @@
+{
+    "bootstrap.servers": "---pkc-xxxxx.***.confluent.cloud:9092---",
+    "security.protocol": "SASL_SSL",
+    "sasl.mechanism": "PLAIN",
+    "sasl.username": "---",
+    "sasl.password": "---",
+    "schema.registry.url": "https://psrc-xxx-.confluent.cloud",
+    "schema.registry.basic.auth.user.info": "<USER>:<PASSWORD>"
+ }
